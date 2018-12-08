@@ -14,6 +14,7 @@
 		A2E03D6B21BC05C70020FAB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2E03D6921BC05C70020FAB7 /* LaunchScreen.storyboard */; };
 		A2E03D7321BC06120020FAB7 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E03D7221BC06120020FAB7 /* FirstViewController.swift */; };
 		A2E03D7521BC06560020FAB7 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E03D7421BC06560020FAB7 /* NewViewController.swift */; };
+		A2E03D7B21BC08800020FAB7 /* TempViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E03D7A21BC08800020FAB7 /* TempViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A2E03D6C21BC05C70020FAB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A2E03D7221BC06120020FAB7 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		A2E03D7421BC06560020FAB7 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
+		A2E03D7A21BC08800020FAB7 /* TempViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				A2E03D6C21BC05C70020FAB7 /* Info.plist */,
 				A2E03D7221BC06120020FAB7 /* FirstViewController.swift */,
 				A2E03D7421BC06560020FAB7 /* NewViewController.swift */,
+				A2E03D7A21BC08800020FAB7 /* TempViewController.swift */,
 			);
 			path = Gutted;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2E03D7321BC06120020FAB7 /* FirstViewController.swift in Sources */,
+				A2E03D7B21BC08800020FAB7 /* TempViewController.swift in Sources */,
 				A2E03D6321BC05C60020FAB7 /* ViewController.swift in Sources */,
 				A2E03D6121BC05C60020FAB7 /* AppDelegate.swift in Sources */,
 				A2E03D7521BC06560020FAB7 /* NewViewController.swift in Sources */,

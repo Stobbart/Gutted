@@ -1,5 +1,5 @@
 //
-//  tempViewController.swift
+//  TempViewController.swift
 //  Gutted
 //
 //  Created by Adam Rikardsen-Smith on 08/12/2018.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class tempViewController: UIViewController {
+class TempViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
